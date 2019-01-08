@@ -37,5 +37,5 @@ rsconnect/
 
 # Custom additions
 /data/*
-/archives/*
+/archive/*
 /outputs/*
